@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
-	"strings",
+	"strings"
 	"testing"
 )
 
