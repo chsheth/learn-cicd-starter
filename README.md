@@ -1,4 +1,4 @@
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+https://github.com/chsheth/learn_cicd/actions/workflows/c.yml/badge.svg
 
 # learn-cicd-starter (Notely)
 
